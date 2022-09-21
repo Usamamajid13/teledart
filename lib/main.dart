@@ -1,5 +1,3 @@
-import 'dart:io' show Platform;
-
 import 'package:flutter/foundation.dart';
 import 'package:teledart/teledart.dart';
 import 'package:teledart/telegram.dart';
