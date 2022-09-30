@@ -147,7 +147,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
           ),
-          SizedBox(
+          const SizedBox(
             height: 10,
           ),
           Container(
@@ -157,7 +157,7 @@ class _HomeScreenState extends State<HomeScreen> {
               color: Colors.blueGrey,
               borderRadius: BorderRadius.circular(20.0),
             ),
-            child: Center(
+            child: const Center(
               child: Text(
                 "Sent To Binance",
                 style: TextStyle(
